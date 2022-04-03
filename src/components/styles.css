@@ -404,3 +404,10 @@ button:hover{
     background:black;
   }
 }
+
+@media(max-width:400px)
+{
+  *{
+    font-weight: 400;
+  }
+}
